@@ -1,0 +1,46 @@
+{
+  "nav": {
+    "home": "Home",
+    "experience": "Experience",
+    "projects": "Projects",
+    "education": "Education"
+  },
+  "hero": {
+    "greeting": "Hello! My name is William Douglas",
+    "title": "Full Stack Developer and Technology Enthusiast",
+    "description": "I'm a developer passionate about technology and innovation. Here you can learn more about me, my work, and my projects.",
+    "scroll": "Scroll"
+  },
+  "about": {
+    "title": "Get to Know Me",
+    "subtitle": "Feel free to explore more about my work!",
+    "body": "I currently work as a Senior Developer at Aubay, allocated to BNP Paribas, using .NET, Angular, C#, and VB.NET as the main technologies. I have over 7 years of experience developing Mobile, Desktop, and Web solutions.",
+    "cta": "Feel free to take a look at my full CV!",
+    "resume": "My CV",
+    "tools": "Technologies I currently work with:"
+  },
+  "projects": {
+    "title": "Projects",
+    "subtitle": "Check out my portfolio with the projects that were developed.",
+    "seeAll": "See All"
+  },
+  "experience": {
+    "title": "Experience",
+    "subtitle": "A little about my journey in the world of programming",
+    "responsibilities": "Responsibilities:",
+    "tools": "Tools:",
+    "seeAll": "See All"
+  },
+  "education": {
+    "title": "Education",
+    "subtitle": "Here is where knowledge takes you furthest"
+  },
+  "languages": {
+    "title": "Languages",
+    "native": "Native",
+    "portuguese": "Portuguese",
+    "english": "English",
+    "spanish": "Spanish",
+    "french": "French"
+  }
+}
