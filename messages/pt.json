@@ -29,11 +29,160 @@
     "subtitle": "Um pouco da minha trajetória no mundo da programação",
     "responsibilities": "Responsabilidades:",
     "tools": "Ferramentas:",
-    "seeAll": "Ver Todas"
+    "seeAll": "Ver Todas",
+    "items": [
+      {
+        "title": "Desenvolvedor Sênior",
+        "period": "Jul 2025 – Presente",
+        "duration": "8 meses",
+        "type": "Full-time",
+        "observation": "Trabalho alocado na BNP Paribas",
+        "responsibilities": [
+          "Desenvolvimento de Aplicações para Web",
+          "Desenvolvimento com C#, .NET, VB.NET, JavaScript e Angular",
+          "Criação e Manutenção de tabelas SQL e Oracle",
+          "Criação e Manutenção de API Rest e consumo"
+        ]
+      },
+      {
+        "title": "Desenvolvedor Sênior",
+        "period": "Jul 2025 – Out 2025",
+        "duration": "4 meses",
+        "type": "Full-time",
+        "observation": "Trabalho como terceirizado pela Aubay na BNP Paribas",
+        "responsibilities": [
+          "Desenvolvimento de Aplicações para Web",
+          "Desenvolvimento com C#, .NET, VB.NET, JavaScript e Angular",
+          "Criação e Manutenção de tabelas SQL e Oracle",
+          "Criação e Manutenção de API Rest e consumo"
+        ]
+      },
+      {
+        "title": "Desenvolvedor Sênior",
+        "period": "Set 2024 – Nov 2025",
+        "duration": "1 ano e 2 meses",
+        "type": "Full-time",
+        "observation": "Trabalho como terceirizado pela Wipro na Microsoft",
+        "responsibilities": [
+          "Manutenção em Aplicações e implementação de novas funções",
+          "Criação de automações para projetos internos",
+          "Desenvolvimento de Aplicações para Web",
+          "Desenvolvimento com C#, Angular e React",
+          "Criação e Manutenção de tabelas SQL e SQLite",
+          "Criação e Manutenção de API Rest e consumo"
+        ]
+      },
+      {
+        "title": "Desenvolvedor Sênior",
+        "period": "Set 2024 – Nov 2025",
+        "duration": "1 ano e 2 meses",
+        "type": "Full-time",
+        "observation": "Trabalho alocado na Microsoft",
+        "responsibilities": [
+          "Manutenção em Aplicações e implementação de novas funções",
+          "Criação de automações para projetos internos",
+          "Desenvolvimento de Aplicações para Web",
+          "Desenvolvimento com C#, Angular e React",
+          "Criação e Manutenção de tabelas SQL e SQLite",
+          "Criação e Manutenção de API Rest e consumo"
+        ]
+      },
+      {
+        "title": "Desenvolvedor .NET / Desktop e Mobile",
+        "period": "Mai 2023 – Set 2024",
+        "duration": "1 ano e 4 meses",
+        "type": "Full-time",
+        "responsibilities": [
+          "Desenvolvimento de Aplicações utilizando Xamarin Forms",
+          "Manutenção em Aplicações e implementação de novas funções",
+          "Desenvolvimento de Aplicações para Android e Windows",
+          "Criação e Manutenção de tabelas SQL e SQLite",
+          "Criação e Manutenção de API Rest e consumo",
+          "Suporte aos desenvolvedores com menor experiência"
+        ]
+      },
+      {
+        "title": "Desenvolvedor Full Stack",
+        "period": "Out 2023 – Mai 2024",
+        "duration": "7 meses",
+        "type": "Full-time",
+        "responsibilities": [
+          "Desenvolvimento de Aplicações utilizando Flutter, Angular e .NET",
+          "Desenvolvimento com C#, Dart e TypeScript",
+          "Manutenção em Aplicações e implementação de novas funções",
+          "Desenvolvimento de Aplicações para Android, iOS e plataformas web",
+          "Manutenção e criação de tabelas SQL e SQLite",
+          "Manutenção de API Rest e consumo"
+        ]
+      },
+      {
+        "title": "Desenvolvedor Mobile",
+        "period": "Jul 2021 – Abr 2023",
+        "duration": "1 ano e 9 meses",
+        "type": "Full-time",
+        "responsibilities": [
+          "Desenvolvimento de Aplicações do zero utilizando Flutter e Xamarin Forms",
+          "Manutenção em Aplicações e implementação de novas funções",
+          "Desenvolvimento de Aplicações para Android e iOS",
+          "Manutenção e criação de tabelas SQL e SQLite",
+          "Manutenção de API Rest e consumo",
+          "Correções de bugs em produção",
+          "Publicação dos apps na Apple Store e Google Play"
+        ]
+      },
+      {
+        "title": "Desenvolvedor Mobile e Web",
+        "period": "Out 2018 – Abr 2024",
+        "duration": "5 anos e 6 meses",
+        "type": "Freelance",
+        "observation": "Minha própria empresa para trabalhos freelancers",
+        "responsibilities": [
+          "Desenvolvimento de Aplicações do zero utilizando Flutter e Xamarin Forms",
+          "Desenvolvimento de Sites utilizando HTML, CSS e JavaScript",
+          "Manutenção em Aplicações e implementação de novas funções",
+          "Desenvolvimento de Aplicações para Android e iOS",
+          "Criação, manutenção e consumo de API Rest",
+          "Correções de bugs em produção",
+          "Publicação dos apps na Apple Store e Google Play"
+        ]
+      }
+    ]
   },
   "education": {
     "title": "Formação",
-    "subtitle": "É aqui que o conhecimento te leva mais longe"
+    "subtitle": "É aqui que o conhecimento te leva mais longe",
+    "items": [
+      {
+        "degree": "Pós-graduação Lato Sensu — MBA",
+        "field": "Engenharia de Software",
+        "period": "Mar 2024 – Mar 2025",
+        "description": "Especialização em Engenharia de Software com foco em arquitetura de sistemas, metodologias ágeis, qualidade de software e gestão de projetos tecnológicos."
+      },
+      {
+        "degree": "Bacharelado em Ciência da Computação",
+        "field": "Ciência da Computação",
+        "period": "Jan 2019 – Dez 2022",
+        "description": "Formação sólida em fundamentos da computação, algoritmos, estruturas de dados, desenvolvimento de software, redes, banco de dados e inteligência artificial."
+      },
+      {
+        "degree": "Curso Técnico",
+        "field": "Eletrônica",
+        "period": "Fev 2015 – Dez 2017",
+        "description": "Formação técnica em eletrônica analógica e digital, manutenção de equipamentos eletrônicos, programação de microcontroladores e automação industrial."
+      },
+      {
+        "degree": "Curso de Idiomas",
+        "field": "Língua Inglesa — Nível Pós-Intermediário",
+        "period": "Ago 2023 – Ago 2024",
+        "description": "Aprimoramento da fluência em inglês com foco em comunicação profissional, escrita técnica e conversação para ambientes corporativos internacionais."
+      },
+      {
+        "degree": "Curso de Idiomas",
+        "field": "Língua Inglesa",
+        "period": "Mar 2023 – Abr 2024",
+        "description": "Curso presencial de inglês com foco em conversação, gramática avançada e vocabulário técnico para profissionais de tecnologia."
+      }
+    ]
   },
   "languages": {
     "title": "Idiomas",

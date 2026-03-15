@@ -5,8 +5,18 @@ import Image from 'next/image';
 import { GraduationCap } from 'lucide-react';
 import { education } from '@/data/education';
 
+interface EducationTranslated {
+  degree: string;
+  field: string;
+  period: string;
+  description: string;
+}
+
 export function EducationSection() {
   const t = useTranslations('education');
+
+  const translatedItems = t.raw('items') as EducationTranslated[];
+  const allItems = education.map((edu, i) => ({ ...edu, ...translatedItems[i] }));
 
   return (
     <section id="education" className="bg-slate-100 dark:bg-[#0d0e1b] py-20 md:py-28">
@@ -26,7 +36,7 @@ export function EducationSection() {
           <div className="absolute left-5 top-2 bottom-2 w-px bg-slate-200 dark:bg-slate-700" />
 
           <div className="space-y-5">
-            {education.map((edu, i) => (
+            {allItems.map((edu, i) => (
               <motion.div
                 key={i}
                 initial={{ opacity: 0, x: -20 }}

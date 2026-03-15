@@ -29,11 +29,160 @@
     "subtitle": "A little about my journey in the world of programming",
     "responsibilities": "Responsibilities:",
     "tools": "Tools:",
-    "seeAll": "See All"
+    "seeAll": "See All",
+    "items": [
+      {
+        "title": "Senior Developer",
+        "period": "Jul 2025 – Present",
+        "duration": "8 months",
+        "type": "Full-time",
+        "observation": "Work allocated at BNP Paribas",
+        "responsibilities": [
+          "Web Application Development",
+          "Development with C#, .NET, VB.NET, JavaScript and Angular",
+          "Creation and Maintenance of SQL and Oracle tables",
+          "Creation and Maintenance of REST API and consumption"
+        ]
+      },
+      {
+        "title": "Senior Developer",
+        "period": "Jul 2025 – Oct 2025",
+        "duration": "4 months",
+        "type": "Full-time",
+        "observation": "Work as outsourced by Aubay at BNP Paribas",
+        "responsibilities": [
+          "Web Application Development",
+          "Development with C#, .NET, VB.NET, JavaScript and Angular",
+          "Creation and Maintenance of SQL and Oracle tables",
+          "Creation and Maintenance of REST API and consumption"
+        ]
+      },
+      {
+        "title": "Senior Developer",
+        "period": "Sep 2024 – Nov 2025",
+        "duration": "1 year and 2 months",
+        "type": "Full-time",
+        "observation": "Work as outsourced by Wipro at Microsoft",
+        "responsibilities": [
+          "Application Maintenance and implementation of new features",
+          "Creation of automations for internal projects",
+          "Web Application Development",
+          "Development with C#, Angular and React",
+          "Creation and Maintenance of SQL and SQLite tables",
+          "Creation and Maintenance of REST API and consumption"
+        ]
+      },
+      {
+        "title": "Senior Developer",
+        "period": "Sep 2024 – Nov 2025",
+        "duration": "1 year and 2 months",
+        "type": "Full-time",
+        "observation": "Work allocated at Microsoft",
+        "responsibilities": [
+          "Application Maintenance and implementation of new features",
+          "Creation of automations for internal projects",
+          "Web Application Development",
+          "Development with C#, Angular and React",
+          "Creation and Maintenance of SQL and SQLite tables",
+          "Creation and Maintenance of REST API and consumption"
+        ]
+      },
+      {
+        "title": ".NET / Desktop and Mobile Developer",
+        "period": "May 2023 – Sep 2024",
+        "duration": "1 year and 4 months",
+        "type": "Full-time",
+        "responsibilities": [
+          "Application Development using Xamarin Forms",
+          "Application Maintenance and implementation of new features",
+          "Application Development for Android and Windows",
+          "Creation and Maintenance of SQL and SQLite tables",
+          "Creation and Maintenance of REST API and consumption",
+          "Support for junior developers"
+        ]
+      },
+      {
+        "title": "Full Stack Developer",
+        "period": "Oct 2023 – May 2024",
+        "duration": "7 months",
+        "type": "Full-time",
+        "responsibilities": [
+          "Application Development using Flutter, Angular and .NET",
+          "Development with C#, Dart and TypeScript",
+          "Application Maintenance and implementation of new features",
+          "Application Development for Android, iOS and web platforms",
+          "Maintenance and creation of SQL and SQLite tables",
+          "REST API Maintenance and consumption"
+        ]
+      },
+      {
+        "title": "Mobile Developer",
+        "period": "Jul 2021 – Apr 2023",
+        "duration": "1 year and 9 months",
+        "type": "Full-time",
+        "responsibilities": [
+          "Application Development from scratch using Flutter and Xamarin Forms",
+          "Application Maintenance and implementation of new features",
+          "Application Development for Android and iOS",
+          "Maintenance and creation of SQL and SQLite tables",
+          "REST API Maintenance and consumption",
+          "Production bug fixes",
+          "App publishing on Apple Store and Google Play"
+        ]
+      },
+      {
+        "title": "Mobile and Web Developer",
+        "period": "Oct 2018 – Apr 2024",
+        "duration": "5 years and 6 months",
+        "type": "Freelance",
+        "observation": "My own company for freelance work",
+        "responsibilities": [
+          "Application Development from scratch using Flutter and Xamarin Forms",
+          "Website Development using HTML, CSS and JavaScript",
+          "Application Maintenance and implementation of new features",
+          "Application Development for Android and iOS",
+          "Creation, maintenance and consumption of REST API",
+          "Production bug fixes",
+          "App publishing on Apple Store and Google Play"
+        ]
+      }
+    ]
   },
   "education": {
     "title": "Education",
-    "subtitle": "Here is where knowledge takes you furthest"
+    "subtitle": "Here is where knowledge takes you furthest",
+    "items": [
+      {
+        "degree": "Post-graduate Lato Sensu — MBA",
+        "field": "Software Engineering",
+        "period": "Mar 2024 – Mar 2025",
+        "description": "Specialization in Software Engineering with focus on system architecture, agile methodologies, software quality, and technological project management."
+      },
+      {
+        "degree": "Bachelor's in Computer Science",
+        "field": "Computer Science",
+        "period": "Jan 2019 – Dec 2022",
+        "description": "Solid foundation in computing fundamentals, algorithms, data structures, software development, networks, databases and artificial intelligence."
+      },
+      {
+        "degree": "Technical Course",
+        "field": "Electronics",
+        "period": "Feb 2015 – Dec 2017",
+        "description": "Technical training in analog and digital electronics, electronic equipment maintenance, microcontroller programming and industrial automation."
+      },
+      {
+        "degree": "Language Course",
+        "field": "English — Post-Intermediate Level",
+        "period": "Aug 2023 – Aug 2024",
+        "description": "Improvement of English fluency with focus on professional communication, technical writing and conversation for international corporate environments."
+      },
+      {
+        "degree": "Language Course",
+        "field": "English",
+        "period": "Mar 2023 – Apr 2024",
+        "description": "In-person English course with focus on conversation, advanced grammar and technical vocabulary for technology professionals."
+      }
+    ]
   },
   "languages": {
     "title": "Languages",

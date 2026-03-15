@@ -6,12 +6,24 @@ import { useState } from 'react';
 import { experiences } from '@/data/experience';
 import { Plus, Building2 } from 'lucide-react';
 
+interface ExperienceTranslated {
+  title: string;
+  period: string;
+  duration: string;
+  type: string;
+  observation?: string;
+  responsibilities: string[];
+}
+
 const INITIAL_COUNT = 3;
 
 export function ExperienceSection() {
   const t = useTranslations('experience');
   const [showAll, setShowAll] = useState(false);
-  const displayed = showAll ? experiences : experiences.slice(0, INITIAL_COUNT);
+
+  const translatedItems = t.raw('items') as ExperienceTranslated[];
+  const allItems = experiences.map((exp, i) => ({ ...exp, ...translatedItems[i] }));
+  const displayed = showAll ? allItems : allItems.slice(0, INITIAL_COUNT);
 
   return (
     <section id="experience" className="bg-slate-100 dark:bg-[#0d0e1b] py-20 md:py-28">
@@ -100,7 +112,7 @@ export function ExperienceSection() {
             ))}
           </div>
 
-          {!showAll && experiences.length > INITIAL_COUNT && (
+          {!showAll && allItems.length > INITIAL_COUNT && (
             <motion.div
               initial={{ opacity: 0 }}
               whileInView={{ opacity: 1 }}
